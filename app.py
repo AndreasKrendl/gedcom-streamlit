@@ -11,10 +11,10 @@ gedcom_file = 'krendl-4Gen.ged'
 # Parser vorbereiten
 gedcom_parser = Parser()
 
-uploaded_file = st.file_uploader("Upload GEDCOM file", type=["ged"])
+uploaded_file = st.file_uploader("Upload GEDCOM file", type=["ged","*"])
 
 if uploaded_file is not None:
-    with tempfile.NamedTemporaryFile(delete=False, suffix=".ged") as tmp_file:
+    with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
         tmp_file.write(uploaded_file.read())
         tmp_file_path = tmp_file.name
 
