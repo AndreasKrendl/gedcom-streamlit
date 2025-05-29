@@ -1,0 +1,840 @@
+﻿0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+3 VERS 5.5.1
+1 CHAR UTF-8
+1 SOUR FTM
+2 NAME Family Tree Maker for Windows
+2 VERS 24.2.2.1560
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DEST FTM
+1 DATE 24 APR 2025
+1 FILE Familie-Krendl-2025-04-24-4Gen.ged
+1 SUBM @SUBM@
+0 @SUBM@ SUBM
+1 NAME Not Given
+0 @I1@ INDI
+1 NAME Andreas /Krendl/
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 1965
+2 PLAC Niederhofen 7
+3 MAP
+4 LATI N48.1202
+4 LONG E15.436
+1 NOTE @N1@
+1 _PHOTO @M10@
+1 OBJE @M10@
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I97@ INDI
+1 NAME Jana /Krendl/
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1993
+2 PLAC Sankt Pölten
+3 MAP
+4 LATI N48.2137
+4 LONG E15.6277
+1 FAMC @F1@
+0 @I96@ INDI
+1 NAME Elia /Krendl/
+1 SEX M
+1 BIRT
+2 DATE 6 JUN 1991
+2 PLAC Sankt Pölten
+3 MAP
+4 LATI N48.2137
+4 LONG E15.6277
+1 FAMC @F1@
+0 @I35@ INDI
+1 NAME Franz /Luegbauer/
+1 SEX M
+1 BIRT Pf. St. Gotthard Fol. 31
+2 DATE 21 NOV 1881
+2 PLAC St. Gotthard
+3 MAP
+4 LATI N48.0349
+4 LONG E15.3294
+1 DEAT Pf. St. Gotthard Fol. 31
+2 DATE 30 JAN 1949
+2 PLAC Sankt Pölten
+3 MAP
+4 LATI N48.2137
+4 LONG E15.6277
+1 FAMS @F19@
+0 @I980@ INDI
+1 NAME Josef /Freinberger/
+1 SEX M
+1 BIRT Pf. Texing Fol. 180
+2 DATE 31 JAN 1904
+2 PLAC Texing 18
+3 MAP
+4 LATI N48.0431
+4 LONG E15.3244
+1 DEAT Das Texingtal - Engelbert Grubner S. 185
+2 DATE 16 AUG 1957
+2 PLAC Texing 8
+3 MAP
+4 LATI N48.0486
+4 LONG E15.3246
+1 FAMS @F439@
+0 @I2@ INDI
+1 NAME Gabriele Josefa /Gotsmann/
+1 SEX F
+1 BIRT
+2 DATE 23 MAR 1966
+2 PLAC Sankt Pölten
+3 MAP
+4 LATI N48.2137
+4 LONG E15.6277
+1 NOTE @N2@
+1 _PHOTO @M13@
+1 OBJE @M13@
+1 FAMS @F1@
+0 @I100@ INDI
+1 NAME Maria /Mader/
+1 SEX F
+1 BIRT
+2 DATE 23 FEB 1858
+2 PLAC Diedersdorf 6
+3 MAP
+4 LATI N48.2025
+4 LONG E15.1177
+1 FAMS @F51@
+0 @I99@ INDI
+1 NAME Ignaz /Kalcher/
+1 SEX M
+1 BIRT
+2 DATE 15 JUL 1857
+1 DEAT
+2 DATE 2 AUG 1885
+1 FAMS @F51@
+0 @I113@ INDI
+1 NAME Maria /Döller/
+1 SEX F
+1 FAMS @F58@
+0 @I117@ INDI
+1 NAME Johanna /Brandl/
+1 SEX F
+1 FAMS @F60@
+0 @I112@ INDI
+1 NAME Franz /Fahrngruber/
+1 SEX M
+1 BIRT Pf. Frankenfels od. Pf. St. Anton
+1 FAMS @F60@
+0 @I26@ INDI
+1 NAME Josefa /Nurscher/
+1 SEX F
+1 BIRT
+2 DATE 2 JAN 1842
+2 PLAC Heinrichsberg 2
+3 MAP
+4 LATI N48.1049
+4 LONG E15.3825
+1 DEAT
+2 DATE 22 NOV 1925
+2 PLAC Mank
+3 MAP
+4 LATI N48.1115
+4 LONG E15.3404
+1 NOTE @N16@
+1 FAMS @F17@
+0 @I25@ INDI
+1 NAME Michael /Heher/
+1 SEX M
+1 BIRT
+2 DATE 11 MAR 1838
+2 PLAC Heinrichsberg 2
+3 MAP
+4 LATI N48.1049
+4 LONG E15.3825
+1 NOTE @N15@
+1 FAMS @F17@
+0 @I37@ INDI
+1 NAME Anna /Fohrafellner/
+1 SEX F
+1 BIRT
+2 DATE 22 MAR 1851
+2 PLAC Kilb 76
+3 MAP
+4 LATI N48.0991
+4 LONG E15.4056
+1 NOTE @N18@
+1 FAMS @F65@
+0 @I21@ INDI
+1 NAME Anna /Birkner/
+1 SEX F
+1 BIRT
+2 DATE 6 JUN 1855
+2 PLAC Wies 3
+3 MAP
+4 LATI N48.098
+4 LONG E15.3221
+1 NOTE @N12@
+1 FAMS @F20@
+0 @I10@ INDI
+1 NAME Josefa /Krumböck/
+2 SOUR @S5@
+3 PAGE 0231 Fol. 231
+3 DATA
+4 TEXT Vater Josef Krumböck kath. Rel. Bergarbeiter
+5 CONT Mutter: Anna Maria kath. Rel. Ehel. Tochter des Andreas Kaiblinger gewester Bauers zu Dornhof und seines Eheweibes Theresia geb. Schoderböck.
+5 CONT
+3 _LINK http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F06/?pg=234
+3 NOTE http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F06/?pg=234
+1 SEX F
+1 BIRT
+2 DATE 9 JAN 1850
+2 PLAC Panschach 2
+3 MAP
+4 LATI N48.0824
+4 LONG E15.3997
+1 DEAT
+2 DATE 3 JAN 1913
+2 PLAC Schützen 5
+3 MAP
+4 LATI N48.0883
+4 LONG E15.3944
+1 FAMS @F5@
+0 @I9@ INDI
+1 NAME Josef Franz /Krendl/
+1 SEX M
+1 BIRT
+2 DATE 26 FEB 1841
+2 PLAC Dorf Au 16
+3 MAP
+4 LATI N48.075
+4 LONG E15.4393
+2 SOUR @S1@
+3 PAGE 0064 Fol. 64
+3 DATA
+4 TEXT Vater: Josef Krendl ( Grenl ), Bauer von Vorlechen
+5 CONT Mutter: Theresia des  Josef Schweiger Bauer am Schrofen Pf. Loich und der Maria geb. Stadelberger ehel. Tochter
+5 CONT Paten: Barbara Raphlbauer, Bäuerin von Kilb
+5 CONT Hebamme: Maria Ebner ungeprüft.
+5 CONT
+3 _LINK https://data.matricula-online.eu/de/oesterreich/st-poelten/rabenstein/01%252F05/?pg=66
+3 NOTE https://data.matricula-online.eu/de/oesterreich/st-poelten/rabenstein/01%252F05/?pg=66
+1 DEAT
+2 DATE 5 APR 1906
+2 PLAC Schützen 3
+3 MAP
+4 LATI N48.0885
+4 LONG E15.3958
+1 NOTE @N8@
+1 FAMS @F5@
+0 @I103@ INDI
+1 NAME Maria /Kalcher/
+1 SEX F
+1 BIRT
+2 DATE 23 NOV 1886
+1 FAMS @F68@
+1 FAMC @F51@
+0 @I105@ INDI
+1 NAME Maria /Döller/
+1 SEX F
+1 BIRT
+2 DATE 10 APR 1871
+1 FAMS @F54@
+1 FAMC @F58@
+0 @I104@ INDI
+1 NAME Johann /Fahrngruber/
+1 SEX M
+1 BIRT
+2 DATE 24 OCT 1879
+2 PLAC Wiesrotte 5
+3 MAP
+4 LATI N48.0109
+4 LONG E15.3054
+1 DEAT
+2 DATE 5 MAR 1962
+1 FAMS @F54@
+1 FAMC @F60@
+0 @I24@ INDI
+1 NAME Josef /Heher/
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1862
+2 PLAC Heinrichsberg 2
+3 MAP
+4 LATI N48.1049
+4 LONG E15.3825
+1 DEAT
+2 DATE 6 MAY 1938
+2 PLAC Heinrichsberg 2
+3 MAP
+4 LATI N48.1049
+4 LONG E15.3825
+1 FAMS @F16@
+1 FAMC @F17@
+0 @I20@ INDI
+1 NAME Maria /Fohrafellner/
+1 SEX F
+1 BIRT
+2 DATE 17 JUN 1874
+2 PLAC Großaigen 2
+3 MAP
+4 LATI N48.0943
+4 LONG E15.3591
+1 FAMS @F16@
+1 FAMC @F65@
+0 @I8@ INDI
+1 NAME Anna /Birkner/
+2 SOUR @S3@
+3 PAGE 0254 Fol. 254
+3 DATA
+4 TEXT Am 17.  Juni 1879 um ½ 12 Uhr unehelich geboren und am 18. Juni getauft.
+5 CONT Anna Bürkner, kath. ledige Dienstmagd, uneheliche Tochter der nach Texing zuständigen Franziska Bürkner, ledige Dienstmagd in Wies Nr. 4, kath. Rel.
+5 CONT Paten: Theresia Schlager, l(edige) Mühl- und Sägebesitzers-Tochter in Kimming Nr. 6 Pfarre Kirnberg
+5 CONT Anmerkung: Hat sich am 24.01.1911 in Kilb mit Franz Luegbauer verehelicht in 2. Ehe
+3 _LINK https://data.matricula-online.eu/de/oesterreich/st-poelten/mank/01%252F08/?pg=287
+3 NOTE https://data.matricula-online.eu/de/oesterreich/st-poelten/mank/01%252F08/?pg=287
+1 SEX F
+1 BIRT
+2 DATE 17 JUN 1879
+2 PLAC Hörgstberg 5
+3 MAP
+4 LATI N48.1234
+4 LONG E15.3356
+2 SOUR @S3@
+3 DATA
+4 TEXT Anna Bürkner, kath. ledige Dienstmagd, uneheliche Tochter der nach Texing zuständigen Franziska Bürkner, ledige Dienstmagd in Wies Nr. 4, kath. Rel.
+5 CONT Paten: Theresia Schlager, l(edige) Mühl- und Sägebesitzers-Tochter in Kimming Nr. 6 Pfarre Kirnberg
+5 CONT Anmerkung: Hat sich am 24.01.1911 in Kilb mit Franz Luegbauer verehelicht in 2. Ehe
+3 _LINK https://data.matricula-online.eu/de/oesterreich/st-poelten/mank/01%252F08/?pg=287
+3 NOTE https://data.matricula-online.eu/de/oesterreich/st-poelten/mank/01%252F08/?pg=287
+1 DEAT
+2 DATE 29 SEP 1952
+2 PLAC Schützen 2
+3 MAP
+4 LATI N48.0887
+4 LONG E15.3936
+1 NOTE @N7@
+1 FAMS @F4@
+1 FAMS @F19@
+1 FAMC @F20@
+0 @I7@ INDI
+1 NAME Franz /Krendl/
+2 SOUR @S4@
+3 PAGE 0044 Fol. 44
+3 DATA
+4 TEXT Vater: Franz Krendl, kath. Inwohner und Taglöhner zu Schützen, welcher mit der Kindsmutter seit 28. Februar des Jahres kirchlich getraut ist, erklärt sich zur zwei mir wohlbekannten Zeugen als Vater dieses Kindes und bittet, als es ehelich eingetr
+5 CONC agen werde. Kilb am 14. August 1881.
+5 CONT Mutter: Josefa kath. eheliche Tochter des Josef Grundböck (Krumböck), Hausbesitzer in Schützen und der Anna Maria geb. Kaiblinger
+5 CONT Josef Grabner, Ignaz Krendl (Grenl, Bruder) als Zeugen
+5 CONT Paten: Alois Zöchbauer Bauer in Ritzenberg Pfarre Leonhard a(m) Forst
+3 OBJE @M11@
+3 OBJE @M12@
+3 _LINK http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F08/?pg=46
+3 NOTE http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F08/?pg=46
+1 SEX M
+1 BIRT
+2 DATE 16 JUL 1881
+2 PLAC Schützen 3
+3 MAP
+4 LATI N48.0885
+4 LONG E15.3958
+2 SOUR @S4@
+3 PAGE 0044 Fol. 44
+3 DATA
+4 TEXT Vater: Franz Krendl, kath. Inwohner und Taglöhner zu Schützen, welcher mit der Kindsmutter seit 28. Februar des Jahres kirchlich getraut ist, erklärt sich zur zwei mir wohlbekannten Zeugen als Vater dieses Kindes und bittet, als es ehelich eingetr
+5 CONC agen werde. Kilb am 14. August 1881.
+5 CONT Mutter: Josefa kath. eheliche Tochter des Josef Grundböck (Krumböck), Hausbesitzer in Schützen und der Anna Maria geb. Kaiblinger
+5 CONT Josef Grabner, Ignaz Krendl (Grenl, Bruder) als Zeugen
+5 CONT Paten: Alois Zöchbauer Bauer in Ritzenberg Pfarre Leonhard a(m) Forst
+3 OBJE @M11@
+3 OBJE @M12@
+3 _LINK http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F08/?pg=46
+3 NOTE http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F08/?pg=46
+1 DEAT
+2 DATE 12 JUN 1910
+2 PLAC Schützen 2
+3 MAP
+4 LATI N48.0887
+4 LONG E15.3936
+1 NOTE @N6@
+1 _PHOTO @M9@
+1 OBJE @M9@
+1 FAMS @F4@
+1 FAMC @F5@
+0 @I102@ INDI
+1 NAME Josef /Kalcher/
+1 SEX M
+1 BIRT
+2 DATE 8 FEB 1910
+1 DEAT
+2 DATE 15 JAN 1943
+1 _PHOTO @M3@
+1 OBJE @M3@
+1 FAMS @F53@
+1 FAMC @F68@
+0 @I101@ INDI
+1 NAME Leopoldine /Fahrngruber/
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1911
+2 PLAC Haxenöd 3
+3 MAP
+4 LATI N48.0786
+4 LONG E15.3576
+1 DEAT
+2 DATE 9 DEC 2003
+2 PLAC Texing
+3 MAP
+4 LATI N48.0473
+4 LONG E15.3217
+1 _PHOTO @M6@
+1 OBJE @M6@
+1 FAMS @F53@
+1 FAMS @F439@
+1 FAMC @F54@
+0 @I6@ INDI
+1 NAME Rosa /Heher/
+2 SOUR @S28@
+3 PAGE 0163 Fol. 163
+3 DATA
+4 TEXT Vater: Josef Heher, kath. Bauer in Heinrichsberg 2 zuständig nach Schmidbach, geb. in Heinrichsberg am 18.03.1862 ehel. Sohn des Michael Heher, +Bauers in Heinrichsberg und der Josefa ux. geb. Nurscher, beide kath.
+5 CONT Mutter: Maria Fohrafellner, uxor, kath. geb. 17.06.1874, Tochter der Anna Fohrafellner … verehelichte Reithofer in Großaigen, ehel. Tochter des Engelbert Fohrafellner, Kleinhäuslers in Großaigen und der Josefa ux. geb. Ponsam, beide kath.
+5 CONT Paten: Juliana Mitterer i.e. kath. Witwe Private in Mank Nr. 52
+5 CONT Anmerkung: hier getraut am 16.01.1900 (Eltern)
+3 _LINK http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F09/?pg=166
+3 NOTE http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F09/?pg=166
+1 SEX F
+1 BIRT
+2 DATE 2 APR 1913
+2 PLAC Heinrichsberg 2
+3 MAP
+4 LATI N48.1049
+4 LONG E15.3825
+1 DEAT
+2 DATE 13 DEC 1998
+2 PLAC Schützen 1
+3 MAP
+4 LATI N48.0885
+4 LONG E15.3942
+1 _PHOTO @M4@
+1 OBJE @M4@
+1 FAMS @F3@
+1 FAMC @F16@
+0 @I5@ INDI
+1 NAME Franz /Krendl/
+2 SOUR @S28@
+3 PAGE 0031 Fol. 31
+3 DATA
+4 TEXT Vater: Franz Krendl kath. Relig. Taglöhner zu Schützen geb. 16.07.1884 zuständig nach Rabenstein, ehel. Sohn des Franz Krendl, Kleinhäusler in Schützen und der Josefa ux. Geb. Grundböck (Krumböck)
+5 CONT Mutter: Anna ux. Kath. Rel. Geb. 17.06.1879, Tochter der Anna Bürkner (Birkner) jetzt verehelicht Stampfl, Tochter der Franziska Bürkner, ledige Dienstmagd in Wies 4.
+5 CONT Paten: Theresia Mitterer kath. Rel. Ledige Dienstmagd Braunöd Nr. 4 ( Weghof )
+5 CONT
+3 _LINK http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F09/?pg=34
+3 NOTE http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F09/?pg=34
+1 SEX M
+1 BIRT
+2 DATE 9 AUG 1906
+2 PLAC Schützen 3
+3 MAP
+4 LATI N48.0885
+4 LONG E15.3958
+2 SOUR @S28@
+3 PAGE 0031 Fol. 31
+3 DATA
+4 TEXT Vater: Franz Krendl kath. Relig. Taglöhner zu Schützen geb. 16.07.1884 zuständig nach Rabenstein, ehel. Sohn des Franz Krendl, Kleinhäusler in Schützen und der Josefa ux. Geb. Grundböck (Krumböck)
+5 CONT Mutter: Anna ux. Kath. Rel. Geb. 17.06.1879, Tochter der Anna Bürkner (Birkner) jetzt verehelicht Stampfl, Tochter der Franziska Bürkner, ledige Dienstmagd in Wies 4.
+5 CONT Paten: Theresia Mitterer kath. Rel. Ledige Dienstmagd Braunöd Nr. 4 ( Weghof )
+5 CONT
+3 _LINK http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F09/?pg=34
+3 NOTE http://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/01%252F09/?pg=34
+1 DEAT
+2 DATE 22 APR 1987
+2 PLAC Schützen 1
+3 MAP
+4 LATI N48.0885
+4 LONG E15.3942
+2 SOUR @S27@
+3 PAGE Nr. 13/1987
+1 NOTE @N5@
+1 _PHOTO @M5@
+1 OBJE @M5@
+1 FAMS @F3@
+1 FAMC @F4@
+0 @I4@ INDI
+1 NAME Leopoldine /Kalcher/
+1 SEX F
+1 BIRT
+2 DATE 14 OCT 1940
+2 PLAC Texing
+3 MAP
+4 LATI N48.0473
+4 LONG E15.3217
+1 NOTE @N4@
+1 _PHOTO @M2@
+1 OBJE @M2@
+1 FAMS @F2@
+1 FAMC @F53@
+0 @I3@ INDI
+1 NAME Karl /Krendl/
+1 SEX M
+1 BIRT
+2 DATE 11 MAY 1939
+2 PLAC Schützen 3
+3 MAP
+4 LATI N48.0885
+4 LONG E15.3958
+1 DEAT
+2 DATE 22 MAY 2021
+2 PLAC Melk
+3 MAP
+4 LATI N48.2267
+4 LONG E15.3393
+1 NOTE @N3@
+1 _PHOTO @M1@
+1 OBJE @M1@
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I168@ INDI
+1 NAME St. Pölten /Krendl/
+1 SEX M
+1 FAMS @F84@
+0 @I968@ INDI
+1 NAME /Katharina/
+1 SEX F
+1 FAMS @F92@
+0 @I199@ INDI
+1 NAME Simon /Krendl/
+1 SEX M
+1 RESI
+2 PLAC Eggsdorf
+1 FAMS @F92@
+1 FAMC @F84@
+0 @I201@ INDI
+1 NAME Michael /Krendl/
+1 SEX M
+1 BIRT
+2 DATE 31 AUG 1631
+2 PLAC Eggsdorf
+1 FAMS @F93@
+1 FAMC @F92@
+0 @I203@ INDI
+1 NAME Anna /Krendl/
+1 SEX F
+1 BIRT
+2 DATE 31 AUG 1667
+2 PLAC Sankt Pölten
+3 MAP
+4 LATI N48.2137
+4 LONG E15.6277
+1 FAMC @F93@
+0 @F19@ FAM
+1 HUSB @I35@
+1 WIFE @I8@
+1 MARR Pf. Kilb Fol. 56
+2 DATE 24 JAN 1911
+2 PLAC Schützen 2
+3 MAP
+4 LATI N48.0887
+4 LONG E15.3936
+0 @F439@ FAM
+1 HUSB @I980@
+1 WIFE @I101@
+1 MARR Das Texingtal - Engelbert Grubner S. 185
+2 DATE 14 JAN 1946
+2 PLAC Texing 8
+3 MAP
+4 LATI N48.0486
+4 LONG E15.3246
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I96@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I97@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 12 SEP 1992
+2 PLAC Sankt Pölten
+3 MAP
+4 LATI N48.2137
+4 LONG E15.6277
+0 @F51@ FAM
+1 HUSB @I99@
+1 WIFE @I100@
+1 CHIL @I103@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 30 AUG 1880
+2 PLAC Kirnberg
+3 MAP
+4 LATI N48.0716
+4 LONG E15.3228
+0 @F58@ FAM
+1 WIFE @I113@
+1 CHIL @I105@
+2 _MREL Natural
+0 @F60@ FAM
+1 HUSB @I112@
+1 WIFE @I117@
+1 CHIL @I104@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR Pf. Kirchberg
+2 DATE 23 SEP 1895
+0 @F17@ FAM
+1 HUSB @I25@
+1 WIFE @I26@
+1 CHIL @I24@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 10 AUG 1858
+2 PLAC Mank
+3 MAP
+4 LATI N48.1115
+4 LONG E15.3404
+0 @F65@ FAM
+1 WIFE @I37@
+1 CHIL @I20@
+2 _MREL Natural
+0 @F20@ FAM
+1 WIFE @I21@
+1 CHIL @I8@
+2 _MREL Natural
+0 @F5@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I7@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 28 FEB 1881
+2 PLAC Kilb 132
+3 MAP
+4 LATI N48.1016
+4 LONG E15.4028
+2 SOUR @S35@
+3 PAGE 0124 Fol. 132
+3 DATA
+4 TEXT Bräutigam: Franz Krendl Zuwohner zu Schützen großjährig, ehel. Sohn des Josef Krendl Bauers am Vorlehen zu Dorf Au 16 Pf. Rabenstein kath. am Leben und der Theresia ux. Geb. Schweiger kath. Rel.
+5 CONT Braut: Josefa Kumböck Dienstmagd zu Graben bei Haag, großjährig, ehel. Tochter des Josef Krumböck Hausbesitzer zu Schützen und der Anna Maria ux. Geb. Kaiblinger beider kath. Rel. Und am Leben.
+5 CONT Zeugen: Johann Vogl Gastwirt in Kilb kath., Franz Heinrichsberger
+5 CONT Anmerkung: …. Braut ist den 09.01.1850 geboren
+5 CONT
+3 _LINK https://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/02%252F06/?pg=127
+3 NOTE https://data.matricula-online.eu/de/oesterreich/st-poelten/kilb/02%252F06/?pg=127
+1 NOTE @N68@
+0 @F68@ FAM
+1 WIFE @I103@
+1 CHIL @I102@
+2 _MREL Natural
+0 @F54@ FAM
+1 HUSB @I104@
+1 WIFE @I105@
+1 CHIL @I101@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 16 APR 1912
+2 PLAC Texing
+3 MAP
+4 LATI N48.0473
+4 LONG E15.3217
+0 @F16@ FAM
+1 HUSB @I24@
+1 WIFE @I20@
+1 CHIL @I6@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 16 JAN 1900
+2 PLAC Kilb
+3 MAP
+4 LATI N48.1008
+4 LONG E15.4085
+0 @F4@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I5@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 16 MAY 1904
+2 PLAC Kilb
+3 MAP
+4 LATI N48.1008
+4 LONG E15.4085
+0 @F53@ FAM
+1 HUSB @I102@
+1 WIFE @I101@
+1 CHIL @I4@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 14 JAN 1936
+2 PLAC Texing
+3 MAP
+4 LATI N48.0473
+4 LONG E15.3217
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I3@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 13 MAY 1935
+2 PLAC Kilb
+3 MAP
+4 LATI N48.1008
+4 LONG E15.4085
+1 NOTE @N67@
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I1@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 26 OCT 1959
+0 @F84@ FAM
+1 HUSB @I168@
+1 CHIL @I199@
+2 _FREL Natural
+0 @F92@ FAM
+1 HUSB @I199@
+1 WIFE @I968@
+1 CHIL @I201@
+2 _FREL Natural
+2 _MREL Natural
+0 @F93@ FAM
+1 HUSB @I201@
+1 CHIL @I203@
+2 _FREL Natural
+0 @N1@ NOTE
+1 CONC Software Engineer
+0 @N2@ NOTE
+1 CONC Fachverkäuferin
+0 @N3@ NOTE
+1 CONC Dachdecker
+0 @N4@ NOTE
+1 CONC Hausbesorgerin
+0 @N5@ NOTE
+1 CONC Wirtschaftsbesitzer Schützen Nr. 1
+0 @N6@ NOTE
+1 CONC Taglöhner in Schützen 3
+0 @N7@ NOTE
+1 CONC ledige Taglöhnerin in Schützen 3
+0 @N8@ NOTE
+1 CONC Taglöhner in Schützen
+1 CONT ab 1887 Kleinhausbesitzer von Schützen Nr. 3
+0 @N12@ NOTE
+1 CONC Dienstmagd
+1 CONT Witwe verehelicht mit Alois Stangel Schmid in Kilb
+0 @N15@ NOTE
+1 CONC Wirtschaftsbesitzer Heinrichsberg 2
+0 @N16@ NOTE
+1 CONC Wirtschaftsbesitzerin Heinrichsberg 2
+0 @N18@ NOTE
+1 CONC 1874: gegenwärtig verehelicht mit Reithofer Großaigen
+0 @N67@ NOTE
+1 CONC Schützen Nr. 1 - Heinrichsberg Nr. 2
+0 @N68@ NOTE
+1 CONC Schützen Nr. 5 - Graben bei Haag Nr. 4
+0 @S1@ SOUR
+1 TITL Rabenstein, Taufbuch 01/05 1829-1849
+1 REPO @R1@
+1 NOTE
+2 CONC Rabenstein.  Taufbuch 01/05 1829-1849.
+0 @S3@ SOUR
+1 TITL Mank, Taufbuch 01/08 1858-1879
+1 REPO @R1@
+1 NOTE
+2 CONC Mank.  Taufbuch 01/08 1858-1879.
+0 @S4@ SOUR
+1 TITL Kilb, Taufbuch 01/08 1879-1904
+1 REPO @R1@
+1 NOTE
+2 CONC Kilb.  Taufbuch 01/08 1879-1904.
+0 @S5@ SOUR
+1 TITL Kilb, Taufbuch 01/06 1834-1857
+1 REPO @R1@
+1 NOTE
+2 CONC Kilb.  Taufbuch 01/06 1834-1857.
+0 @S27@ SOUR
+1 TITL Standesamt Kilb
+1 REPO @R2@
+0 @S28@ SOUR
+1 TITL Kilb, Taufbuch 01/09 1905-1925
+1 REPO @R1@
+1 NOTE
+2 CONC Kilb.  Taufbuch 01/09 1905-1925.
+0 @S35@ SOUR
+1 TITL Kilb, Trauungsbuch 02/06 1860-1902
+1 REPO @R1@
+1 NOTE
+2 CONC Kilb.  Trauungsbuch 02/06 1860-1902.
+0 @R1@ REPO
+1 NAME Diözesanarchiv St. Pölten
+1 ADDR
+1 EMAIL
+1 PHON
+0 @R2@ REPO
+1 NAME Standesamt Kilb
+1 ADDR
+1 EMAIL
+1 PHON
+0 @M1@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Karl Krendl 1939.jpg
+2 FORM jpg
+2 TITL Karl Krendl
+0 @M2@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Leopoldine Kalcher 1940.jpg
+2 FORM jpg
+2 TITL Leopoldine Kalcher
+0 @M3@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Josef Kalcher 1910.jpg
+2 FORM jpg
+2 TITL Kalcher
+0 @M4@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Rosa Heher Hochzeit.jpg
+2 FORM jpg
+2 TITL Rosa Heher
+0 @M5@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Franz Krendl 1906.jpg
+2 FORM jpg
+2 TITL Franz Krendl *1906
+0 @M6@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Leopoldina Fohrafellner 2.jpg
+2 FORM jpg
+2 TITL Leopoldina Fohrafellner 2
+0 @M9@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Franz Krendl 1881.jpg
+2 FORM jpg
+2 TITL Franz Krendl 1881
+2 _DATE 23.03.2020 07:47:02
+0 @M10@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\andreas_portrait_2020.jpg
+2 FORM jpg
+2 TITL andreas_portrait_2020
+2 _DATE 21.03.2020 13:52:19
+0 @M11@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Taufbuch Kilb 01-08 0044 1.jpg
+2 FORM jpg
+2 TITL Taufbuch Kilb 01-08 0044 1
+2 _DATE 23.03.2020 13:57:44
+0 @M12@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Taufbuch Kilb 01-08 0044 2.jpg
+2 FORM jpg
+2 TITL Taufbuch Kilb 01-08 0044 2
+2 _DATE 23.03.2020 14:11:17
+0 @M13@ OBJE
+1 FILE C:\Users\katsc\OneDrive\Documents\Genealogie\0 Krendl\Familie Krendl aktuell Media\Gabi Krendl (geb. Gotsmann) 2021.jpg
+2 FORM jpg
+2 TITL Gabi Krendl (geb. Gotsmann) 2021
+2 _DATE 15.01.2023 12:53:38
+0 TRLR
