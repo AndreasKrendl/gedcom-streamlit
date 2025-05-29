@@ -56,7 +56,7 @@ for element in gedcom_parser.get_element_list():
 
 # Zeitfilter
 st.title("📍 Ahnenkarte nach Zeit")
-start_year, end_year = st.slider("Zeitraum auswählen", 1700, 2025, (1800, 1900))
+start_year, end_year = st.slider("Zeitraum auswählen", 1600, 2025, (1800, 1900))
 
 # Karte
 m = folium.Map(location=[48.3, 14.3], zoom_start=5)
