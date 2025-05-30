@@ -234,7 +234,7 @@ if proband_coords:
 
 # Marker setzen
 for e in events:
-    if start_year <= e['date'].year <= end_year:
+    if e['date'] is not None and start_year <= e['date'].year <= end_year:
         # Ist es der gewählte Proband?
         if e['name'] == proband_name:
             farbe = 'green'
