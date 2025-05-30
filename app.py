@@ -158,13 +158,13 @@ for nachname, vorname, geburtsdatum, person in personen_liste:
     if f"{nachname} {vorname} {geburtsdatum}" == auswahl:
         proband = person
         proband_name = nachname, vorname  # Merken für spätere Markierung
-        st.write("proband_name: ", proband_name)
+        #st.write("proband_name: ", proband_name)
         break
 
 # Initiale Kartenposition auf Proband setzen, falls Koordinaten vorhanden
 proband_coords = [48.3, 14.3]  # fallback
 for e in events:
-    st.write("e-name", e['name'])
+    #st.write("e-name", e['name'])
     if e['name'] == proband_name:
         proband_coords = [e['lat'], e['lon']]
         break
@@ -172,7 +172,7 @@ for e in events:
 
 # Ausgabe Hauptbereich
 if proband:
-    st.write(f"**Proband ausgewählt:** {proband.get_name()}")
+    st.write(f"**Proband ausgewählt:** {proband.get_name()[1]} {proband.get_name()[0]}")
 
 # Zeitfilter
 st.title("📍 Ahnenkarte nach Zeit")
